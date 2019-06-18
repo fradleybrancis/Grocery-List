@@ -1,2 +1,1 @@
-# Grocery-List
-full-stack app for logging grocery items
+# Full Stack Review Workshop
